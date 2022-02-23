@@ -1,4 +1,4 @@
-Role Name
+Ansible-Role Kibana for CentOS 7
 =========
 
 Role installs Kibana on CentOS 7. 
@@ -56,7 +56,7 @@ Below is more complete example with variables. It presumes to be used as a part 
 License
 -------
 
-BSD
+MIT
 
 Author Information
 ------------------
